@@ -1,24 +1,24 @@
-<h1 align="center">Hola, soy Steven 👋</h1>
+<h1 align="center">Hey, I'm Steven 👋</h1>
 
 <p align="center">
-  <strong>Estudiante de Tecnología en Desarrollo de Software</strong> · Cartagena, Colombia 🇨🇴<br/>
-  Apasionado por el desarrollo fullstack, las bases de datos y el frontend de alto impacto.
+  <strong>Software Development Technology Student</strong> · Cartagena, Colombia 🇨🇴<br/>
+  Passionate about fullstack development, databases, and high-impact frontend design.
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About me
 
-Soy estudiante de 5.º semestre de un programa tecnólogo en Desarrollo de Software, con enfoque en aplicaciones web fullstack. Me interesa especialmente la combinación de **frontend de alto impacto visual** con **bases de datos bien diseñadas**.
+I'm a 5th-semester student in a Software Development Technology program, building fullstack web applications with a strong focus on **visual frontend** and **well-structured databases**.
 
-- 📍 Cartagena, Colombia
-- 🎯 Meta próxima: pasantía profesional → trabajo remoto para empresas internacionales
-- 🚀 Proyecto actual: **DriveMaster** — sistema de gestión para tienda de repuestos automotrices
-- 💡 Proyecto personal en mente: **Novu** — app de finanzas personales para jóvenes colombianos
+- 📍 Based in Cartagena, Colombia
+- 🎯 Next goal: professional internship → remote work for international companies
+- 🚀 Current project: **DriveMaster** — management system for an automotive parts store
+- 💡 Personal idea in progress: **Novu** — personal finance app for young Colombians
 
 ---
 
-## 🛠️ Stack técnico
+## 🛠️ Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,69 +32,58 @@ Soy estudiante de 5.º semestre de un programa tecnólogo en Desarrollo de Softw
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
-### Bases de datos
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Herramientas
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🚗 Proyecto destacado — DriveMaster
+## 🚗 Featured Project — DriveMaster
 
-> Sistema de gestión fullstack para una tienda de repuestos automotrices
+> Fullstack management system for an automotive parts store — currently in active development
 
-**Tech stack:** React + Vite · Spring Boot · MongoDB · JWT Auth
+**Stack:** React + Vite · Spring Boot · MongoDB · JWT Auth
 
-**Lo que incluye:**
-- Panel de administración con paleta oscura (`#0a0a0a` / `#ff3d00`) y fuente DM Sans
-- Catálogo público de productos con filtros y diseño por componentes
-- API REST con seguridad basada en JWT (`SecurityConfig.java`)
-- Endpoint de productos más vendidos con agregación en MongoDB
-- Arquitectura de CSS por namespaces (`.db-*`, `.kp-*` para admin / `.filtros__chip`, `.product-card` para catálogo)
+- Admin panel with dark theme (`#0a0a0a` / `#ff3d00`) and DM Sans typography
+- Public product catalog with filters and component-based architecture
+- REST API secured with JWT (`SecurityConfig.java`)
+- Top-selling products endpoint using MongoDB aggregation pipeline
+- Modular CSS architecture with separate namespaces for admin and catalog views
 
 ---
 
-## 🌐 Proyectos anteriores — Landing pages
+## 🌐 Previous Projects — Landing Pages
 
-| Proyecto | Descripción |
+| Project | Description |
 |---|---|
-| [Portfolio personal](https://steven2514.github.io) | Mi sitio web personal con HTML, CSS y animaciones |
-| Café Origen | Landing page con Flexbox, Grid y diseño responsive |
-| La Parrilla de Don Carlos | Landing page con scroll animations |
+| [Personal Portfolio](https://steven2514.github.io) | My personal website built with HTML, CSS and scroll animations |
+| Café Origen | Responsive landing page using Flexbox and Grid |
+| La Parrilla de Don Carlos | Landing page with scroll animations and mobile-first design |
 
 ---
 
-## 📚 Lo que estoy aprendiendo ahora
+## 📚 Currently learning
 
-- Operadores de agregación avanzados en MongoDB (`$lookup`, `$unwind`, `$group`)
-- Seguridad web: JWT, BCrypt, control de acceso por roles (RBAC)
-- Diseño de APIs REST robustas con Spring Boot
-- Buenas prácticas de CSS modular
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steven2514&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven2514&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+- Advanced MongoDB aggregation operators (`$lookup`, `$unwind`, `$group`)
+- Web security: JWT, BCrypt, role-based access control (RBAC)
+- REST API best practices with Spring Boot
+- Modular and scalable CSS architecture
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
-¿Tienes un proyecto interesante o una oportunidad de pasantía? Escríbeme.
+If you have an interesting project or an internship opportunity, feel free to reach out.
 
 [![GitHub](https://img.shields.io/badge/GitHub-steven2514-181717?style=for-the-badge&logo=github)](https://github.com/steven2514)
 
 ---
 
 <p align="center">
-  <em>"El código que escribes hoy es la versión de ti que eligió no procrastinar."</em>
+  <em>Building one project at a time.</em>
 </p>
